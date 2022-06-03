@@ -1,6 +1,6 @@
-For this project, we are expected you to look at this concept:
+For this project, we are expected to look at the following concepts:
 
->Python programming.
+>>Python programming learning resources... 
 https://alx-intranet.hbtn.io/concepts/550
 
 1. 0x00. Python - Hello, World.
