@@ -73,6 +73,6 @@ https://alx-intranet.hbtn.io/concepts/550
 
 ## Author
 
-Laura Roudge - Cohort 5
+J. Wambugu Mbari - Cohort 5
 
 email: mbariwambugu@gmail.com
